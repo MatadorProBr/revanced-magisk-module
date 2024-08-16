@@ -69,8 +69,8 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Photos]
 enabled = true
-arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+arch = "both"
 
 [IconPackStudio]
 enabled = false
