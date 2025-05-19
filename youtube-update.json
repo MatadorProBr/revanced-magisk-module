@@ -1,6 +1,6 @@
 {
-  "version": "v20.12.46 (patches: 5.23.0)",
-  "versionCode": 23,
-  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/23/youtube-revanced-magisk-v20.12.46-all.zip",
+  "version": "v20.12.46 (patches: 5.24.0)",
+  "versionCode": 24,
+  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/24/youtube-revanced-magisk-v20.12.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/MatadorProBr/revanced-magisk-module/update/build.md"
 }
