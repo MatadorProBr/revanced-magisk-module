@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches 5.28.0)",
-  "versionCode": 30,
-  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/30/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches 5.29.0)",
+  "versionCode": 31,
+  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/31/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/MatadorProBr/revanced-magisk-module/update/build.md"
 }
