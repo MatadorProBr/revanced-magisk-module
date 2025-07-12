@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches 5.31.0)",
-  "versionCode": 33,
-  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/33/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.13.41 (patches 5.31.1)",
+  "versionCode": 34,
+  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/34/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/MatadorProBr/revanced-magisk-module/update/build.md"
 }
