@@ -1,6 +1,6 @@
 {
-  "version": "v7.45.0.807274941 (patches 5.40.0)",
-  "versionCode": 44,
-  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/44/googlephotos-revanced-magisk-v7.45.0.807274941-arm-v7a.zip",
+  "version": "v7.47.0.810631069 (patches 5.41.0)",
+  "versionCode": 45,
+  "zipUrl": "https://github.com/MatadorProBr/revanced-magisk-module/releases/download/45/googlephotos-revanced-magisk-v7.47.0.810631069-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/MatadorProBr/revanced-magisk-module/update/build.md"
 }
